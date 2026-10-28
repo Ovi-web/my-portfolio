@@ -5,7 +5,7 @@
 
 A high-performance, modern, and fully responsive Developer Portfolio web application built to showcase software engineering expertise, technical projects, and academic background. Features a custom multi-theme design system and interactive components.
 
-## 🔗 Live Link: [Live Demo Link Coming Soon]()
+## 🔗 Live Link: https://my-portfolio-ovi.vercel.app/
 
 ---
 
